@@ -1,0 +1,14 @@
+{
+  "name": "simplegcf",
+  "version": "1.0.0",
+  "description": "simple google cloud function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gcf"
+  ],
+  "author": "Felicia Rosemond",
+  "license": "ISC"
+}
